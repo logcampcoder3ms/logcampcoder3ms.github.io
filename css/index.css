@@ -77,24 +77,24 @@ header {
 }
 
 #section-one {
-    
+  background-color: #0000ff;  
 }
 
 #section-two {
-    
+    background-color #0000ff;
 }
 
 #section-three {
-  background-color: #cccc00;
+  background-color: #0000ff;
 }
 
 #section-four {
-  background-color: #0099cc;
+  background-color: #0000ff;
   background-image: url();
 }
 
 #section-five {
-  background-color: #cc0000;
+  background-color: #0000ff;
   background-image: url(../images/tree_bark.png);
 }
 
