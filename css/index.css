@@ -59,7 +59,7 @@ section {
 header {
   background-color: #333333;  
 /* You can change the header background image here */    
-  background-image: url(../http://drakulus23.files.wordpress.com/2014/07/sailor-moon-crystal.png?w=1038&h=576&crop=1);
+  background-image: url(http://drakulus23.files.wordpress.com/2014/07/sailor-moon-crystal.png?w=1038&h=576&crop=1);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
